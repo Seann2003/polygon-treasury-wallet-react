@@ -1,6 +1,6 @@
 {
   "buildCommand": "bun run build",
-  "outputDirectory": "apps/web/build/client",
+  "outputDirectory": "apps/web/build",
   "installCommand": "bun install",
   "framework": null
 }
